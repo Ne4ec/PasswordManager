@@ -1,5 +1,5 @@
 # PasswordManager
-![password_manager_proof_of_concept](https://github.com/Ne4ec/Programming/blob/main/.pictures/passsword_manager_poc.png)
+![password_manager_proof_of_concept](https://github.com/Ne4ec/PasswordManager/blob/main/.pictures/passsword_manager_poc.png)
 A CLI password manager, created with Python. It is for educational purposes only—do not use it as your default password manager!
 
 ## Installation
