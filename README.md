@@ -1,5 +1,5 @@
 # PasswordManager
-![password_manager_proof_of_concept](https://github.com/Ne4ec/PasswordManager/blob/main/.pictures/passsword_manager_poc.png)
+![password_manager_proof_of_concept](https://github.com/Ne4ec/PasswordManager/blob/main/.pictures/passsword_manager_poc.png) <br>
 A CLI password manager, created with Python. It is for educational purposes only—do not use it as your default password manager!
 
 ## Installation
@@ -8,7 +8,7 @@ A CLI password manager, created with Python. It is for educational purposes only
 ```bash
 sudo pacman -Syu python git 
 ```
-**Notice:** If you're using a different Linux distribution (`apt` or `dnf` etc.), make sure to use the correct `package manager`. The steps should be similar across distributions.
+**Notice:** If you're using a different Linux distribution (`apt` or `dnf` etc.), make sure to use the correct `package manager`. The steps should be similar across distributions. <br>
 2. after that, install my repository
 ```bash
 sudo git clone https://github.com/Ne4ec/PasswordManager
